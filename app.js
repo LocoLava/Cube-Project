@@ -1,6 +1,5 @@
 <script>
-info="<script>
-info=&#34;<!DOCTYPE html>
+info="<!DOCTYPE html>
 
 
 <html>
@@ -54,9 +53,7 @@ p    {color: white;
 
 
     
-</html>&#34;
-document.write(info)
-</script>"
+</html>"
 
 document.write(info)
 </script>
